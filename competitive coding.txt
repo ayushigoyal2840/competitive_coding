@@ -307,11 +307,32 @@ In the second case, flipping only the second and the third element (i = 2,�
 sol)
 
 
-Q9)
+Q9)Window sum algorithm 
+a={10,20,30,40,50}
+find max sum using window sum algorithm 
+window_sum=60;
+best_Sum=0;
+for(i=k to n)
+window_sum+=arr[i]-arr[i-k];
+ans=max(ans,window_sum)';
 
-Q10)
+Q10)count subarray with sum equal to its xor value
+a={1,2,3}
 
 Q11)
+Q12)
+Q13)
+Q14)
+Q15)
+Q16)
+Q17)
+Q18)
+Q19)
+Q20)
+Q21)
+Q22)
+Q23)
+Q24)
 
 
 
